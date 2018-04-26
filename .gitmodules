@@ -1,0 +1,6 @@
+[submodule "unseenest"]
+	path = unseenest
+	url = https://github.com/borgr/unseenest.git
+[submodule "PoissonBinomial"]
+	path = PoissonBinomial
+	url = https://github.com/borgr/PoissonBinomial.git
