@@ -9,4 +9,19 @@ The batches directory also contains the data of validation by humans of grammati
 
 Please cite this paper if you find our resources useful
 
-bib:
+bib (from ACL anthology):
+
+@inproceedings{choshen-abend-2018-inherent,
+    title = "Inherent Biases in Reference-based Evaluation for Grammatical Error Correction",
+    author = "Choshen, Leshem  and
+      Abend, Omri",
+    booktitle = "Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2018",
+    address = "Melbourne, Australia",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/P18-1059",
+    doi = "10.18653/v1/P18-1059",
+    pages = "632--642",
+    abstract = "The prevalent use of too few references for evaluating text-to-text generation is known to bias estimates of their quality (henceforth, low coverage bias or LCB). This paper shows that overcoming LCB in Grammatical Error Correction (GEC) evaluation cannot be attained by re-scaling or by increasing the number of references in any feasible range, contrary to previous suggestions. This is due to the long-tailed distribution of valid corrections for a sentence. Concretely, we show that LCB incentivizes GEC systems to avoid correcting even when they can generate a valid correction. Consequently, existing systems obtain comparable or superior performance compared to humans, by making few but targeted changes to the input. Similar effects on Text Simplification further support our claims.",
+}
