@@ -1,5 +1,5 @@
 # IBGEC
-Code and Data release for the papre Inherent Biases in Grammatical Error Correction and Text Simplification
+Code and Data release for the paper Inherent Biases in Grammatical Error Correction and Text Simplification
 The unseenest github repo deals with a comfortable implementation in python 3 for unseenest algorithm to predict the histogram of a discreet probabillity while sampling from only some of the discreet possible values.
 
 The poissonBinomial github repo deals with implementations of papers to efficiently and comfortably calculate Poisson Binomial CDF PDF etc.
